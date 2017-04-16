@@ -62,11 +62,11 @@ Usage
             mPolarisMapView.onStop();
         } 
 
-###Including In Your Project
+### Including In Your Project
 
 The Polaris library is presented as an [Android library project][4]. You can include this project by [referencing it as a library project][5] in Eclipse or ant.
 
-###Building the sample application
+### Building the sample application
 
 Using the Google Maps external library requires registering your signing key to Google. When doing so, Google generates an API key you must pass to `MapView` when instanciating. For obvious reasons, you must keep these keys private.
 
@@ -90,7 +90,7 @@ Developed By
 
 Cyril Mottier - <cyril@cyrilmottier.com>
 
-###Credits
+### Credits
 
 - [Marie Schweiz](http://marie-schweiz.de): Designed the Polaris icon
 - [Pierre Valade](https://twitter.com/pierrevalade): Helped me finding a nice name to this library
